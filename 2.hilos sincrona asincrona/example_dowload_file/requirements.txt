@@ -1,0 +1,4 @@
+# requirements.txt
+
+# Si deseas incluir matplotlib para futuras visualizaciones, descomenta la siguiente línea:
+# matplotlib
