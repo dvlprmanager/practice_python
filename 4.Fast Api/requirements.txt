@@ -1,8 +1,0 @@
-fastapi
-uvicorn[standard]
-SQLAlchemy
-alembic
-PyMySQL
-python-dotenv
-pydantic
-pytest

@@ -1,0 +1,18 @@
+Hola, este es un ejemplo de escritura y lectura de archivos en Python.
+Segunda línea del archivo.
+Hola, este es un ejemplo de escritura y lectura de archivos en Python.
+Segunda línea del archivo.
+Hola, este es un ejemplo de escritura y lectura de archivos en Python.
+Segunda línea del archivo.
+Hola, este es un ejemplo de escritura y lectura de archivos en Python.
+Segunda línea del archivo.
+Hola, este es un ejemplo de escritura y lectura de archivos en Python.
+Segunda línea del archivo.
+Hola, este es un ejemplo de escritura y lectura de archivos en Python.
+Segunda línea del archivo.
+Hola, este es un ejemplo de escritura y lectura de archivos en Python.
+Segunda línea del archivo.
+Hola, este es un ejemplo de escritura y lectura de archivos en Python.
+Segunda línea del archivo.
+Hola, este es un ejemplo de escritura y lectura de archivos en Python.
+Segunda línea del archivo.

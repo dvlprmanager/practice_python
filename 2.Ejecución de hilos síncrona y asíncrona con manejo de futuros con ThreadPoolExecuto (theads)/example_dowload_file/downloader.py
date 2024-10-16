@@ -53,10 +53,9 @@ def descarga_asincrona(archivos, max_workers=3):
     inicio = time.time()
 
     with ThreadPoolExecutor(max_workers=max_workers) as executor:
-        # Enviar todas las tareas al pool de hilos
+       
         futuros = {executor.submit(descargar_archivo, archivo, tiempo): archivo for archivo, tiempo in archivos}
 
-        # Manejar los futuros a medida que se completan
         for futuro in as_completed(futuros):
             archivo = futuros[futuro]
             try:

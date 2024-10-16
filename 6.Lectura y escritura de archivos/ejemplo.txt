@@ -1,0 +1,3 @@
+¡Hola, mundo!
+Esta es una línea de texto.
+Python facilita la manipulación de archivos.
